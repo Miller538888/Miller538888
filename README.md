@@ -51,17 +51,6 @@
 
 ---
 
-# 📊 Estatísticas Avançadas
-
-<p align="center">
-
-  
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Miller538888&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miller538888&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 📈 Activity Graph
 
@@ -71,14 +60,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miller538888&theme=tokyonight&no-frame=true&margin-w=10&row=1
-"/>
-</p>
-
----
 
 # 🐍 Snake Animation (Commits)
 
