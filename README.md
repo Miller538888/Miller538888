@@ -61,13 +61,11 @@
 ---
 
 
-# 🐍 Snake Animation (Commits)
+# 🐍 Snake Commits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Miller538888/Miller538888/output/github-contribution-grid-snake.svg"/>
 </p>
-
-⚠️ Para ativar a snake animation você precisa configurar GitHub Actions depois (posso te ensinar).
 
 ---
 
